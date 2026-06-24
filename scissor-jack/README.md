@@ -42,7 +42,7 @@ applied through allowable stresses throughout.
   identified as the most critical locations and locally reinforced.
 
 ## Renders
-
+![Scissor jack mechanism animation](./images/scissor-jack-working.gif)
 ![Scissor jack assembly, open position](./images/render-assembly-isometric-open.png)
 ![Scissor jack assembly, closed position](./images/render-assembly-isometric-closed.png)
 
