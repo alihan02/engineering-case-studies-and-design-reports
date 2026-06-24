@@ -28,6 +28,8 @@ Design and structural analysis of a foldable hydraulic workshop crane (engine ho
 
 All structural checks used a safety factor of 2 against yield. Full derivations, free-body diagrams, and catalogue component selections (hook, chain, hydraulic ram, casters) are in the design report.
 
+![Workshop crane, working animation](images/engine-hoist-animation.gif)
+
 ## Folded Storage Configuration
 
 ![Workshop crane, folded position](images/render-folded-position.png)
